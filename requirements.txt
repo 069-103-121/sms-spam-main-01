@@ -1,5 +1,5 @@
 streamlit
 nltk
 scikit-learn
-scipy==1.6.3
+scipy
 scipy.sparse._csr
